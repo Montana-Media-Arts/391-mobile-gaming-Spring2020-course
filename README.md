@@ -1,12 +1,12 @@
-# MART 220 - Creative Coding 2 | Content Website
+# MART 391 - Mobile Gaming | Content Website
 
-This is the web-based version of Creative Coding 2 (MART 220) at the School of Media Arts, University of Montana.
+This is the web-based version of Mobile Gaming (MART 391) at the School of Media Arts, University of Montana.
 
-This course focuses on media integration, interactivity, and foundation coding.
+This course focuses on media integration, interactivity, and foundation of mobile applications and gaming.
 
 
 
-- [_Web Tech_ Website](https://montana-media-arts.github.io/220-creative-coding2-Spring2020-course/)
+- [Mobile Website](https://montana-media-arts.github.io/391-mobile-gaming-Spring2020-course/modules/week-11/overview/)
 
 
 ### Updated By:
@@ -18,4 +18,4 @@ This course focuses on media integration, interactivity, and foundation coding.
 
 ### Updated
 
-This course was last updated: 2020-3-13
+This course was last updated: 2020-3-14
