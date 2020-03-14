@@ -7,7 +7,7 @@ permalink: /:title/
 
 ## Content
 
-Much of the content for this course has been adapted from the [Unity Basics](https://docs.unity3d.com/560/Documentation/Manual/UnityBasics.html). We will use their kits and playground as well.
+We are going to do a number of different things throughout the rest of the semester including how to compile in Cordova, uploading to the store, creating applications in Unity and Xamarin.
 
 
 ## Website Template
