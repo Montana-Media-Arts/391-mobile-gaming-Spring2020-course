@@ -4,11 +4,11 @@ published: true
 ---
 
 
-This is the website for the online section of _Creative Coding 2 ( MART 220 )_ offered by [The School of Media Arts, University of Montana](http://www.umt.edu/mediaarts/).
+This is the website for the online section of _Mobile Games ( MART 391 )_ offered by [The School of Media Arts, University of Montana](http://www.umt.edu/mediaarts/).
 
-Building on the principles and techniques covered in Creative Coding 1 ( MART 120 ), this project-based class focuses on media integration, interactivity, and creative coding.
+This is the web-based version of Mobile Gaming (MART 391) at the School of Media Arts, University of Montana.
 
-This online foundation coding course.
+This course focuses on media integration, interactivity, and foundation of mobile applications and gaming.
 
 <br />
 
