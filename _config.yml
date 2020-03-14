@@ -42,7 +42,7 @@ jumbotron_color: "#8c8e90"
 jumbotron_background_image: "header.svg"
 jumbotron_image: "MART_LOGO_SMALL.png"
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 
 
 github: [metadata]
