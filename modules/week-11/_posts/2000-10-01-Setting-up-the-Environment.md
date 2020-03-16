@@ -24,7 +24,7 @@ Regardless if you are running a PC or Mac, these steps will get you up and runni
 2. Unzip the file and put it in the C: drive.
 
 # Download and install Node.js
-1. Go to node.js [nodejs.org](nodejs.org).
+1. Go to node.js [nodejs.org](https://nodejs.org/en/).
 2. Download the most recent version and install it using all the defaults.
 
 # Setting up the Environment Variables
@@ -88,7 +88,7 @@ For Mac's, installing is a little more straightforward.
 3. Download and install node.js
 4. Download and install Gradle
 5. Run the following commands in the terminal.
-    * mkdir /opt/gradle 
+    * mkdir ~/opt/gradle 
     * unzip -d ~/opt/gradle gradle-6.2.2-bin.zip
     * ls /opt/gradle/gradle-6.2.2
 6. Set the path variable - export PATH=$PATH: ~/opt/gradle/gradle-6.2.2/bin 
