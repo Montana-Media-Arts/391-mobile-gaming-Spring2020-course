@@ -18,4 +18,5 @@ Now, create a couple more pages and make sure you can link them together.  Keep 
 
 If you are unsure of how HTML, CSS and JavaScript, work, let's go to the next page and I will give you resources and activities to learn them.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfrC1FrP4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfrC1FrP4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->

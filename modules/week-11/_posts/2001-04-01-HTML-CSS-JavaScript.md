@@ -26,5 +26,5 @@ However, here are some great references from W3Schools that I like.
 
 If you are unfamiliar, I would highly recommend going through at least a few sections as you will need it for your homework.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D-awHrt-Ves" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-awHrt-Ves" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
