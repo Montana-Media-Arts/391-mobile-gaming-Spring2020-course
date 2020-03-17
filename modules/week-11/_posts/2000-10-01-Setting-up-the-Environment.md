@@ -13,6 +13,9 @@ Regardless if you are running a PC or Mac, these steps will get you up and runni
 3. Type in java -version and make sure you see a version of the JDK appear.
 4. Download the Android Studio. [Android Studio](https://developer.android.com/studio/index.html) - it is significant in size, and it takes a long time, but honestly, it's much easier than trying to install the SDK and then the emulators.  Android Studio has it all, and when you are ready to deploy, you can build your APK from Android Studio.
 
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vMZ8dLur-jo3H4aSswSDCqB-W42-Lf2s1nUXrKAOmka2VncHNVCvb-QVa-eIwX_nIF6lBISoym0Pc8Qu?continueMode=true
+" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Download and install Gradle
 1. Go to [Gradle](https://gradle.org/releases/)
 2. Scroll down and find the most recent release.
@@ -22,6 +25,8 @@ Regardless if you are running a PC or Mac, these steps will get you up and runni
 
 1. Navigate to [Ant Download](https://ant.apache.org/bindownload.cgi) and download the top version of ANT as a zip file.
 2. Unzip the file and put it in the C: drive.
+
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/tJclf7z6qmo3TtCXtASDUf5wW466fays0nBPqaBZzxvmVHNXNQauYOQVZeA0TenLsjgI0vi9h52OYd4a?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Download and install Node.js
 1. Go to node.js [nodejs.org](https://nodejs.org/en/).
@@ -92,6 +97,9 @@ For Mac's, installing is a little more straightforward.
     * unzip -d ~/opt/gradle gradle-6.2.2-bin.zip
     * ls /opt/gradle/gradle-6.2.2
 6. Set the path variable - export PATH=$PATH: ~/opt/gradle/gradle-6.2.2/bin 
+
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vZF4Jris-D43HNKRsQSDU6UrW469L6ysgCVI-fJcnUqzBXAFM1GlZrAWN7eJ6Xat1cT2isqPzzMgomb_?continueMode=true
+" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Whew, that was a lot!
 
