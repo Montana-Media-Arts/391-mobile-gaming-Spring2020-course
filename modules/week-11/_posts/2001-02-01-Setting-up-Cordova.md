@@ -46,4 +46,4 @@ To see if to works in the emulator, then you need one more command.
 
 If you add both platforms to the same project, then it builds all added platforms.
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/tZZ4c-iorGg3HoKS5QSDBPd9W421LKKs0SAf__IKyE2zWyECNFGmMrQSZbcX28Ryy3ZltmAG4Y0jersj?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/tZZ4c-iorGg3HoKS5QSDBPd9W421LKKs0SAf__IKyE2zWyECNFGmMrQSZbcX28Ryy3ZltmAG4Y0jersj?continueMode=true" target="_new">Video</a>

@@ -6,7 +6,7 @@ jotted: true
 
 # Characters
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vMYpI-j7rj03S9CcswSDBadxW9XsKa6s0iAb_fIFnR7hVncKZgXzNeQUMbGMZFYJcSkz8DiAUVB1tY5w?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/vMYpI-j7rj03S9CcswSDBadxW9XsKa6s0iAb_fIFnR7hVncKZgXzNeQUMbGMZFYJcSkz8DiAUVB1tY5w?continueMode=true" target="_new">Video</a>
 
 In Unity, we add characters by going into the project folder, finding an image or object, and dragging into the Scene.
 

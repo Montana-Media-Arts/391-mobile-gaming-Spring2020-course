@@ -6,7 +6,7 @@ jotted: true
 
 # Unity Tilemaps
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/68Z7fuz--mg3TtzB4QSDUP9xW9W-f6OsgSRI-_AOzRrhUHBVY1SgMrsaM7B36oBpfIxDsJv6Yc44AHCJ?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/68Z7fuz--mg3TtzB4QSDUP9xW9W-f6OsgSRI-_AOzRrhUHBVY1SgMrsaM7B36oBpfIxDsJv6Yc44AHCJ?continueMode=true" target="_new">Video</a>
 
 Now that we have a background, we need to add something to it.  First, we need to add the ground so that our character has something to walk on.
 

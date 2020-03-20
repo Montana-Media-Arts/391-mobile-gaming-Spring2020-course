@@ -6,7 +6,7 @@ jotted: true
 
 # Compiling
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vpx7Ieitrj83SN3EsgSDBaR8W426equs2ihN8_RenUy8UXIKNFv0NeQbYuNYGft4RsMz9t-BXm8b9lHl?continueMode=trueY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/vpx7Ieitrj83SN3EsgSDBaR8W426equs2ihN8_RenUy8UXIKNFv0NeQbYuNYGft4RsMz9t-BXm8b9lHl?continueMode=trueY" target="_new">Video</a>
 
 The importance of this process is getting something to compile at the end.  Unity makes it reasonably simple to do having you select which platform you want to compile, and then having you install the proper tools required.
 

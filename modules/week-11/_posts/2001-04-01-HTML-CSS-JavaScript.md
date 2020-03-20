@@ -27,4 +27,4 @@ However, here are some excellent references from W3Schools that I like.
 
 If you are unfamiliar, I would highly recommend going through at least a few sections as you will need it for your homework.
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/u8EtIbigqz03HoaTsASDA_AqW9W_eKqs0SUa-6YKmE6yUXIGYVCkYLQRMeQugYWZBfdpr-m4X4bOLABX?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/u8EtIbigqz03HoaTsASDA_AqW9W_eKqs0SUa-6YKmE6yUXIGYVCkYLQRMeQugYWZBfdpr-m4X4bOLABX?continueMode=true" target="_new">Video</a>
