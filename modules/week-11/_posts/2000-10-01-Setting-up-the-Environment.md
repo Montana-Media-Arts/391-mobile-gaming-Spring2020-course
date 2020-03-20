@@ -21,6 +21,9 @@ Regardless if you are running a PC or Mac, these steps will get you up and runni
 2. Scroll down and find the most recent release.
 3. Download it, unzip it and put in the C: drive.
 
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/usF4drur-jk3E4Cc5ASDAfcvW420LP6s1ycb-voLyk62WngHNFGmM-YaMW5D5KW5CcEHn4k1J0WZOWw?continueMode=true
+" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Download and install ANT
 
 1. Navigate to [Ant Download](https://ant.apache.org/bindownload.cgi) and download the top version of ANT as a zip file.
