@@ -16,4 +16,4 @@ It does $99/year, so you have to consider if you are okay with that.
 
 With all the hard work in place, let's move onto Cordova.
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/KadFClldms8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/7Jwvce39rz43HNeX4wSDBaB9W9S0J6Ks0iNLqfVbyxnkUSVQYQLzZudDMeNjpJSIwJCdgSBiOOkzGyHJ?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
