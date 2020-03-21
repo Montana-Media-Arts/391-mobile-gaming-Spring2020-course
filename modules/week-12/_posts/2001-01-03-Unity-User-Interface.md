@@ -6,11 +6,11 @@ jotted: true
 
 # Unity User Interface
 
+<a href="https://umontana.zoom.us/rec/play/usclcOis_Tw3S9ySsASDBvB9W9S0e6ms0nRP_vsJyk23V3UEMwCvbuQaZrEcmpJUYUqcayG00rGGgoDy?continueMode=true" target="_new">Video</a>
+
 ## Hierarchy
 
 The first window is the hierarchy tab.  This window is where any added components to the Scene appear.
-
-<a href="https://umontana.zoom.us/rec/play/usclcOis_Tw3S9ySsASDBvB9W9S0e6ms0nRP_vsJyk23V3UEMwCvbuQaZrEcmpJUYUqcayG00rGGgoDy?continueMode=true" target="_new">Video</a>
 
 ## Project
 

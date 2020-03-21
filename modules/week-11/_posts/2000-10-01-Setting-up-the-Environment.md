@@ -33,6 +33,8 @@ Regardless if you are running a PC or Mac, these steps will get you up and runni
 1. Go to node.js [nodejs.org](https://nodejs.org/en/).
 2. Download the most recent version and install it using all the defaults.
 
+<a href="https://umontana.zoom.us/rec/play/7sIvduiq_TI3GN3BsASDBPZ5W9S1Kqis23MZ-_AJnU7gWnkAZwWjbrsbY-YydpPOp7ongPOCOYZn-qyH?continueMode=true" target="_new">Video</a>
+
 # Setting up the Environment Variables
 
 This first part is for PC's
