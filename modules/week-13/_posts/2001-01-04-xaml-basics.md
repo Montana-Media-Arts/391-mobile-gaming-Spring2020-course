@@ -1,8 +1,8 @@
 ---
-title: Hands On
+title: XAML Basics
 module: 13
 jotted: true
 ---
 
-# Hands On
+# XAML Basics
 
