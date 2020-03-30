@@ -27,8 +27,8 @@ All custom scripts start with two main methods, which should look familiar.  The
 We are going to add the following script.
 
 ```csharp
-public float speed;                //Floating point variable to store the player's movement speed.
-
+    public float speed =5;                //Floating point variable to store the player's movement speed.
+ 
     private Rigidbody2D rb2d;        //Store a reference to the Rigidbody2D component required to use 2D Physics.
 
     void Start()
@@ -53,6 +53,8 @@ public float speed;                //Floating point variable to store the player
 
         //Call the AddForce function of our Rigidbody2D rb2d supplying movement multiplied by speed to move our player.
         rb2d.AddForce(movement * speed);
+
+    }
 
 ```
 
