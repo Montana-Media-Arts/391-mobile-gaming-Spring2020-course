@@ -24,3 +24,9 @@ There are also disadvantages, mostly related to limitations that are intrinsic t
 * XAML generally cannot instantiate classes that do not define a parameterless constructor. (However, there is sometimes a way around this restriction.)
 * XAML generally cannot call methods. (Again, this restriction can sometimes be overcome.)
 
+XAML is basically XML, but XAML has some unique syntax features. The most important are:
+
+* Property elements
+* Attached properties
+* Markup extensions
+
