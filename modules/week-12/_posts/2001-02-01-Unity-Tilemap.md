@@ -32,7 +32,7 @@ First, in the Tile Palette Window, click **Create New Palette**.  Then, name it 
 
 Then, please select all the tiles in the **Project** folder and drag them into the **Tile Palette** window. They should all appear.
 
-## Read to Draw
+## Ready to Draw
 
 To draw the palette images, we must first add a **Grid** to the **Scene**.
 
