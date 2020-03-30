@@ -12,11 +12,11 @@ The importance of this process is getting something to compile at the end.  Unit
 
 ## Android
 
-If you want to compile for Android, you go to File -> Build.
+If you want to compile for Android, you go to **File -> Build**.
 
-From there, you will see many options. Make sure if you have more than one scene, you add all scenes.  Then, change your platform to Android.
+From there, you will see many options. Make sure if you have more than one scene, you **add all open scenes**.  Then, change your platform to **Android**.
 
-If you do not have the Android tools installed, it will ask you to download them.  Download and install them, and then you will be all set.
+If you do not have the **Android tools** installed, it will ask you to download them.  Download and install them, and then you will be all set.
 
 Then, there are several options which you can choose.  The important ones are if you are going to create a development build, a production build, the icons, the minimum, and the target platform.  Finally, if you do decide to build a production file, you will need a key that Unity helps you create.  You can self-generate a key to sign your application.
 

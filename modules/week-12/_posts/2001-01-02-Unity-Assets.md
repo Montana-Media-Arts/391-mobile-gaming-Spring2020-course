@@ -10,7 +10,7 @@ jotted: true
 
 One of the things of which I want you to be aware of is Unity's Asset store.  There are many free and paid assets that you can use in your project.  The one we will use is the Unity Playground.
 
-1. Go to Window -> Asset Store. 
+1. Go to **Window** -> **Asset Store**. 
 2. In the Search for assets, type **Free Platform Game Assets**.
 3. Click on the **Free Platform Game Assets**.
 4. Click on **Download**.
