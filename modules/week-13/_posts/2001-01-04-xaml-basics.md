@@ -24,9 +24,21 @@ There are also disadvantages, mostly related to limitations that are intrinsic t
 * XAML generally cannot instantiate classes that do not define a parameterless constructor. (However, there is sometimes a way around this restriction.)
 * XAML generally cannot call methods. (Again, this restriction can sometimes be overcome.)
 
-XAML is basically XML, but XAML has some unique syntax features. The most important are:
+Here is our first example
 
-* Property elements
-* Attached properties
-* Markup extensions
+```html
+<Button Text="Click Me" Clicked="Button_Clicked" />
+```
 
+Put this into the XAML file. Add the code below in the .cs file.
+
+```csharp
+int count = 0;
+void Button_Clicked(object sender, System.EventArgs e)
+{
+    count++;
+    ((Button)sender).Text = $"You clicked {count} times.";
+}
+```
+
+Once you get this installed, click on the Run button to view it in the emulator.
