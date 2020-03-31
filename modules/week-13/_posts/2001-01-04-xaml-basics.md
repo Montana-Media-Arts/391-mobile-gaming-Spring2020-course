@@ -6,7 +6,7 @@ jotted: true
 
 # XAML Basics
 
-XAML which stands for eXtensible Application Markup Language is an XML based language.  XML which is similar to HTML except the tags give context to what they are.  So there are some symantics along with the syntax.
+XAML which stands for **eXtensible Application Markup Language** is an XML based language.  XML which is similar to HTML except the tags give context to what they are.  So there are some symantics along with the syntax.
 
 What are the advantages and disadvantages of using XAML.  As described by Microsoft, they are listed below.
 
