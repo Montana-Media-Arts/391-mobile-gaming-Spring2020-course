@@ -28,6 +28,18 @@ async void OnButtonClickedAsync(object sender, EventArgs args)
 }
 ```
 
+Don't forget to change the App.xaml.cs page so that is says the following
+
+```csharp
+ MainPage = new NavigationPage(new MainPage());
+```
+
+instead of
+
+```csharp
+ MainPage = new MainPage();
+```
+
 Run the simulator again and make sure that when you click the new button, it takes you to the second page.
 
 
