@@ -6,6 +6,8 @@ jotted: true
 
 # Go to a Different Page
 
+<a href="https://umontana.zoom.us/rec/play/v8AtI-z--jk3TNSX4gSDCqQsW9TsJqqsgSMfq6dYmR3mAHgKMQf3Y7tBM7TLkezls5KeTECq3sLfqhqW?continueMode=true&_x_zm_rtaid=DlWtLI-zRlCUpYLqasgjPA.1585764072172.6cf1bc0be13f13c9ac0eb5ca428d956c&_x_zm_rhtaid=855">Video</a>
+
 One of the things that you might find important is navigating from one page to another. How does one do that in Xamarin?  In order for this to work, one must use asynchronous calls to take the user from one page to another.
 
 First, let's add a new page.  Right-click the project and create a new Content page.  Name is Page2.  Alter the new page so that it indicates that we are on the a different page.

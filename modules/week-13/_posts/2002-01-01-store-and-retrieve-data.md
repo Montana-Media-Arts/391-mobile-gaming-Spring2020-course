@@ -6,6 +6,8 @@ jotted: true
 
 # Store Data
 
+<a href="https://umontana.zoom.us/rec/play/7sIvce2t_D03GYfA4wSDAfN8W467LKms1iFP_vULzErnUHcLOlfzMOAaaseyy60hS1Nue43Mx0BaEvE?continueMode=true&_x_zm_rtaid=DlWtLI-zRlCUpYLqasgjPA.1585764072172.6cf1bc0be13f13c9ac0eb5ca428d956c&_x_zm_rhtaid=855">Video</a>
+
 We are going to store our information in a file.  When we get the information, we will write it to a file.  Then, we will click a different button to display the information.
 
 The following shows how one stores the data in a file.

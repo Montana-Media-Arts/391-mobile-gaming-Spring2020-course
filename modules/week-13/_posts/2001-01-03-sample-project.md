@@ -6,7 +6,7 @@ jotted: true
 
 # Sample Project
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/hu9PQ4JYwzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<a href="https://umontana.zoom.us/rec/play/tcB-dOv6qzo3HdSd5QSDBPUvW9W6ffqshicZrPMFzUjhUHdVZFuvYbUSY-GSP2HtgVeHHrCAXmlJOBhd?continueMode=true&_x_zm_rtaid=DlWtLI-zRlCUpYLqasgjPA.1585764072172.6cf1bc0be13f13c9ac0eb5ca428d956c&_x_zm_rhtaid=855">Video</a>
 
 Now that we know how to create a project, let's create something simple that allows us to take in some user input, store it and then display it on a different screen.  Just like anything, we should sketch out what we plan on doing and then work on each piece.
 

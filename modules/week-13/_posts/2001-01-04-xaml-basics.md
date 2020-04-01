@@ -6,6 +6,8 @@ jotted: true
 
 # XAML Basics
 
+<a href="https://umontana.zoom.us/rec/play/6MF7d7_6qD83S9SdswSDA_F-W420eP-sgShP86BemUngUiJRN1byYORBarbwmm0Fpeuu0wcr6MkRqkEY?continueMode=true&_x_zm_rtaid=DlWtLI-zRlCUpYLqasgjPA.1585764072172.6cf1bc0be13f13c9ac0eb5ca428d956c&_x_zm_rhtaid=855">Video</a>
+
 XAML which stands for **eXtensible Application Markup Language** is an XML based language.  XML which is similar to HTML except the tags give context to what they are.  So there are some symantics along with the syntax.
 
 What are the advantages and disadvantages of using XAML.  As described by Microsoft, they are listed below.

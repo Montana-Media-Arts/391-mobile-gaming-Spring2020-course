@@ -6,6 +6,8 @@ jotted: true
 
 # Get Information
 
+<a href="https://umontana.zoom.us/rec/play/75J4duv5_zI3S9GQ5QSDBvAtW47pLaOs0SQbq_Fcmh23U3MBYQGjNLFBZuUEr8iuIwwb7LTkFg05R-qN?continueMode=true&_x_zm_rtaid=DlWtLI-zRlCUpYLqasgjPA.1585764072172.6cf1bc0be13f13c9ac0eb5ca428d956c&_x_zm_rhtaid=855">Video</a>
+
 What is more interesting though is how we get information from the user.  We use the Entry tag to get it.
 
 Add the following to the XAML page.
