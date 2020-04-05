@@ -17,8 +17,8 @@ We are going to use the Community version of Visual Studio since it is free and 
 5. Then, when you get to the **Installation** dialog, click on at least the **Mobile Development with .NET** checkbox.
 6. Click on **Install**.
 
-* Depending on your internet connection, this can take a while since it's 6+ GB.
-
 7. If you have a Microsoft Account, feel free to sign in; otherwise, please register a new account.
+
+* Depending on your internet connection, this can take a while since it's 6+ GB.
 
 Once you have it installed, you can move on and create a new project.
