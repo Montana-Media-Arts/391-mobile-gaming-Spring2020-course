@@ -36,7 +36,7 @@ void Button_Clicked(object sender, System.EventArgs e)
 
 # Retrieve Data
 
-After writing to the file, we want to read from the file.  In order to access the file, you must access the file path again and then read the text.
+After writing to the file, we want to read from the file.  To access the file, you must obtain the file path again and then read the text.
 
 Here is a code example.
 

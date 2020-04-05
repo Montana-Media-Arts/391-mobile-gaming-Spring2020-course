@@ -8,7 +8,7 @@ jotted: true
 
 <a href="https://umontana.zoom.us/rec/play/75J4duv5_zI3S9GQ5QSDBvAtW47pLaOs0SQbq_Fcmh23U3MBYQGjNLFBZuUEr8iuIwwb7LTkFg05R-qN?continueMode=true&_x_zm_rtaid=DlWtLI-zRlCUpYLqasgjPA.1585764072172.6cf1bc0be13f13c9ac0eb5ca428d956c&_x_zm_rhtaid=855">Video</a>
 
-What is more interesting though is how we get information from the user.  We use the Entry tag to get it.
+What is more interesting, though, is how we get information from the user.  We use the Entry tag to get it.
 
 Add the following to the XAML page.
 
@@ -18,7 +18,7 @@ Add the following to the XAML page.
 
 However, we need to get the information from the textbox.
 
-The following code retrieves the information when the button is clicked.
+When clicking the button, the following code retrieves the information.
 
 ```csharp
  var myName = name.Text;
@@ -37,7 +37,3 @@ void Button_Clicked(object sender, System.EventArgs e)
     ((Button)sender).Text = $"You clicked {count} times." + myName;
 }
 ```
-
-
-
-
