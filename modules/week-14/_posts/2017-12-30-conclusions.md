@@ -5,4 +5,4 @@ module: 14
 
 # Conclusions
 
-So this is the end of the formal part of this class.  This week is entirely extra credit so whatever you choose to do can only help you!  Good luck working on your final project and please let me know if there is anything I can do!
+So this is the end of the formal part of this class. You have done so well and I hope you found this week fun. Next week is dedicated to working your final project before presentations the week after.  Let me know if you have any questions!
