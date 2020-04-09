@@ -21,3 +21,5 @@ This folder contains all the code specific files.  For example, our MainActivity
 There are a nubmer of subfolders in this folder, but there is where all the resources are.  So, the launching backgrounds, the layouts for different screens, icons, global variables are all contained in files here.
 
 So, overall, not too bad. But it's good to know what the hierarchy is.
+
+Let's look in the emulator.  Did it work? Great!  Now, let's add an image.

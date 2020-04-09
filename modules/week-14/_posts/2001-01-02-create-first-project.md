@@ -28,6 +28,4 @@ In Android, they use XML files to create the layout.  So, we need to go to the `
 
 In the Project window, expand app, and then go to **res -> layout -> activity_main.xml**.
 
-Let's make a change to the text and see if that changes in the emulator.  As you can see, you cannot hot update your application, but you can stop and start the application the text is updated.
-
-Now, let's make an image appear.
+Now, let's take a look at the folders.
