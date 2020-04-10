@@ -6,6 +6,8 @@ jotted: true
 
 # Movement
 
+<a href="https://umontana.zoom.us/rec/play/uscqfriurD83E9CStQSDAfB_W428Kaysg3cZr_UKn0y2VSMKM1X3Z-MSZbZeipFRyMFnPsuMVfoUcOmf?continueMode=true&_x_zm_rtaid=G4Add6vVSduO6RsyHuAu_A.1586561511718.8a343e83de4846f70f0030d0dc81d501&_x_zm_rhtaid=994">Video Link</a>
+
 If we are going to make this interesting, then we should make our image move.  How do we do that?  We will now turn to the code to make this happen.
 
 1. Go to MainActivity.java file.

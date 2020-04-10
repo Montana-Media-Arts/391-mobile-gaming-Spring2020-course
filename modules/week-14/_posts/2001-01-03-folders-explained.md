@@ -6,6 +6,8 @@ jotted: true
 
 # Android Studio Folders
 
+<a href="https://umontana.zoom.us/rec/play/75N-cL-ppj03SN2V4wSDA_YrW460eKus0nMc-6UPmRvkACUDO1L3Z7pGMOXwypk9Z07FMqgR9G8-4ExI?continueMode=true&_x_zm_rtaid=G4Add6vVSduO6RsyHuAu_A.1586561511718.8a343e83de4846f70f0030d0dc81d501&_x_zm_rhtaid=994">Video Link</a>
+
 Just like any project, Android Studio has a number of folders that are created.  Let's take a look at what they contain.
 
 ## manifests
