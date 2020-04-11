@@ -8,11 +8,11 @@ jotted: true
 
 <a href="https://umontana.zoom.us/rec/play/uscqfriurD83E9CStQSDAfB_W428Kaysg3cZr_UKn0y2VSMKM1X3Z-MSZbZeipFRyMFnPsuMVfoUcOmf?continueMode=true&_x_zm_rtaid=G4Add6vVSduO6RsyHuAu_A.1586561511718.8a343e83de4846f70f0030d0dc81d501&_x_zm_rhtaid=994">Video Link</a>
 
-If we are going to make this interesting, then we should make our image move.  How do we do that?  We will now turn to the code to make this happen.
+If we are going to make this more interactive, then we should make our image move.  How do we do that?  We will now turn to the code to make this happen.
 
 1. Go to MainActivity.java file.
 2. In the onCreate method, we must first get the drawable that we added.
-3. Since we added it to an ImageView, we must get that from the layout.
+3. Since we added it to an ImageView, we must retrieve it from the layout.
 
 
 ```java
@@ -22,7 +22,7 @@ ImageView myView = (ImageView)findViewById(R.id.imageView2);
 
 ** Note: as you add new classes like ImageView, you will need to import the class into the code.  The Android Studio will help with this.
 
-The previous gets the imageView from the layout.  Make sure you put the correct name in there.
+The previous code gets the imageView from the layout.  Make sure you put the correct name in there.
 
 Now, to make it move, we need another line underneath the previous one.
 
@@ -31,7 +31,7 @@ ImageView myView = (ImageView)findViewById(R.id.imageView2);
 myView.setX(myView.getX()+300);
 ```
 
-This sets the x-value with the current x-value plus 300 pixels which should move it to 300 to the right.
+This code sets the x-value with the current x-value plus 300 pixels, which should move it to 300 to the right.
 
 The complete onCreate method should look like this.
 
@@ -44,13 +44,13 @@ The complete onCreate method should look like this.
     }
 ```
 
-This is great, but how do we make it move?
+Now, how do we make it move?
 
-This is where timers comes in.
+Next, we include timers.
 
 So, we are going to add something else.
 
-First, thing we need to do is move the definition of the ImageView to the class level so it can be seen everywhere.  We also need to create a new object called Timer.
+The first thing we need to do is move the definition of the ImageView to the class level and seen everywhere.  We also need to create a new object called Timer.
 
 So, add the following lines before the onCreate method.
 
@@ -59,7 +59,7 @@ So, add the following lines before the onCreate method.
     ImageView myView;
 ```
 
-Now, we need to update the onCreate method so it looks like this.
+Now, we need to update the onCreate method, so it looks like this.
 
 ```java
     protected void onCreate(Bundle savedInstanceState) {
@@ -72,7 +72,7 @@ Now, we need to update the onCreate method so it looks like this.
     }
 ```
 
-The timer will call the MoveTask class every second after a 100 millisecond delay.  What does the MoveTask class look like?
+The timer will call the MoveTask class every second after a 100-millisecond delay.  Let's look at the MoveTask class.
 
 This class should be inside your MainActivity class and after your onCreate method.
 
@@ -84,9 +84,9 @@ class MoveTask extends TimerTask {
     }
 ```
 
-This class is a special because it extends (it is a child of) the TimerTask so it is a TimerTask and can act like a clock now. Don't worry about the details!
+This class is special because it extends (it is a child of) the TimerTask, so it is a TimerTask and can act as a clock now. Don't worry about the details!
 
-The important part is that is calls the moveShape method.
+The important part is that it calls the moveShape method.
 
 That method looks like this.
 
@@ -98,6 +98,6 @@ That method looks like this.
 
 ```
 
-Does this look familiar?  It should.  Those two lines in the moveShape method was in the onCreate method earlier. Now it's just being called over and over the timerTask.
+Does this look familiar?  It should.  Those two lines in the moveShape method were in the onCreate method earlier. Now it's just being called over and over the timerTask.
 
-The next question, is how do we get it to bounce around?
+The next question is, how do we get it to bounce around?
